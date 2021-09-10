@@ -10,8 +10,3 @@ app.config.from_pyfile('config.py')
 
 from app import views
 
-class Config:
-    '''
-    General configuration parent class
-    '''
-    NEWS_API_BASE_URL ='https://newsapi.org/docs./{}?api_key={}'
