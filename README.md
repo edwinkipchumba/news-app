@@ -13,13 +13,20 @@ This is a flask application that lists and previews news articles from various s
 https://github.com/edwinkipchumba/news-app
 
 
-## Behaviuor Driven Development (BDD)
+## Use stories
 1. As a user, I would like to see various news sources on the homepage of the application.
 2. As a user, I would also want to select a news source and see all news articles from the selected news source in the application.
 3. As a user, I would want to see the image, description and the time a news article was created.
 4. As a user, I would want to click on an article and read the full article on the source website.
 
-
+## Behaviuor Driven Development (BDD)
+| Behaviour | Input |Output |
+| :----------------| :-------------------:| :------------------|
+| Display news sources| On page load | List of various news sources displayed |
+| Display tabs with news by category | On tab link click | Clickable links to open news based on category |
+| Display artcles from a news source | Click a news | Redirected to a page with articles from the source | 
+| Display the preview of an article | On page load | Each article displays an image,description and publication date|
+| To read an entire article | Click on article | Redirected to the news source site |
 
 ## Installation/Setup instruction
 
@@ -46,10 +53,13 @@ $ source virtual/bin/activate
 ```
 (virtual)$ pip install -r requirements.txt 
 ```
-* To run test for the application
+* To run the application, in your terminal:
 
 ```
-(virtual)$ python3.8 test.py
+$ chmod +x start.sh
+```
+```
+$ ./start.sh
 ```
 
 ## Technology used
