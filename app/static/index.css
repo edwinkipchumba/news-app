@@ -1,0 +1,11 @@
+.main {
+    flex: 1 1 0;
+    display: flex;
+}
+.container-fluid {
+  display: flex;
+}
+.col-9 {
+  overflow-y: auto;
+  height: 90vh; /* NEW */
+}
