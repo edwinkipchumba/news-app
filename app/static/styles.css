@@ -18,3 +18,7 @@
   navbar-nav{
     padding-left: 340px;
   }
+
+  .card-header{
+      color: blue
+  }
