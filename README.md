@@ -78,8 +78,8 @@ If you find a bug, kindly feel free to comment an issue here and inlcude their c
 ## Contact  Information
 
  Feel free to contact me incase of any issue or questions, ideas and concern towards the same.
- Contact Number:+254728357619
- E-Mail: edwinkolem5@gmail.com.
+ * Contact Number:+254728357619
+ * E-Mail: edwinkolem5@gmail.com.
 
 ## License
 https://github.com/edwinkipchumba/news-app/blob/master/LICENSE
