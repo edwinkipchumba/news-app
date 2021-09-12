@@ -8,8 +8,8 @@
 This is a flask application that lists and previews news articles from various sources using the NEWS API.
 
 ## Screenshot images
-<img src="./app/static/images/home.png">
-<img src="./app/static/images/o1.png">
+<img src="./app/static/images/home1.png">
+<img src="./app/static/images/bs.png">
 <img src="./app/static/images/02.png">
 
 ## Live page

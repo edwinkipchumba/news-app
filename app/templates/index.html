@@ -1,6 +1,6 @@
 <!-- <h1>Hello world</h1> -->
 <!-- <h1>{{message}}</h1>  -->
-<link rel="stylesheet" href="./styles.css" type="text">
+
 {% extends 'base.html'%} {% block content %} {% block styles%} {{ super() }}
 <link rel="stylesheet" href="{{url_for('static',filename='css/index.css')}}"> {% endblock %}
 <br>
