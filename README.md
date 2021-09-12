@@ -1,4 +1,4 @@
-# News Ap
+# News App
 
 ## Author
 
@@ -7,7 +7,7 @@
  ## Description
 This is a flask application that lists and previews news articles from various sources using the NEWS API.
 
-## Screenshot image
+## Screenshot images
 <img src="./app/static/images/home.png">
 <img src="./app/static/images/o1.png">
 <img src="./app/static/images/02.png">
