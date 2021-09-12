@@ -7,7 +7,7 @@
  ## Description
 This is a flask application that lists and previews news articles from various sources using the NEWS API.
 
-<img src="">
+<img src="./app/static/images/home.png  widht=300px height=300px">
 
 ## Live page
 https://github.com/edwinkipchumba/news-app

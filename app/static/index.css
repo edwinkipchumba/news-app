@@ -7,5 +7,6 @@
 }
 .col-9 {
   overflow-y: auto;
-  height: 90vh; /* NEW */
+  height: 90vh; 
 }
+
