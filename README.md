@@ -13,8 +13,7 @@ This is a flask application that lists and previews news articles from various s
 <img src="./app/static/images/02.png">
 
 ## Live page
-https://github.com/edwinkipchumba/news-app
-
+newssap.herokuapp.com/
 
 ## Use stories
 1. As a user, I would like to see various news sources on the homepage of the application.
