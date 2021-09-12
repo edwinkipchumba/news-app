@@ -10,3 +10,11 @@
   height: 90vh; 
 }
 
+/* navbar css */
+.badge-info{
+    font-weight: 900;
+    color: greenyellow;
+  }
+  navbar-nav{
+    padding-left: 340px;
+  }
